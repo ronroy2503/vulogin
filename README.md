@@ -67,43 +67,37 @@ It is built for people who work with several authorized accounts across **social
 
 ## Screenshots
 
-Images from the official site; feature screens use demo data.
+Screens from the VuLogin desktop app (English interface).
 
-### Multi-account workspace
+### Browser profiles
 
-![Multi-account workspace](assets/workspace.webp)
+![Browser profiles](assets/en-profiles.webp)
 
-*Organize browser profiles, account groups, tags and proxy settings from one desktop workspace.*
+*Create, group, tag and open Chrome and Firefox profiles from one workspace; each profile can use its own proxy.*
+
+### Open many profiles at once
+
+![Open many profiles at once](assets/en-opening.webp)
+
+*Select several profiles and open them together with a live progress indicator.*
 
 ### Browser grid mode
 
-![Browser grid mode](assets/browser-grid.webp)
+![Browser grid mode](assets/en-grid.webp)
 
-*Six real browser windows tiled in VuLogin's grid (test data).*
+*Several real browser windows tiled in VuLogin's grid view (test data).*
 
-### Reusable automation scenarios
+### Automation scenarios
 
-![Reusable automation scenarios](assets/automation.webp)
+![Automation scenarios](assets/en-scenario.webp)
 
-*The scenario editor with ordered steps and dataset assignments for multiple profiles.*
+*Describe a task for AI or build steps manually, then run the scenario on selected profiles with a dataset.*
 
-### AI browser control
+### Android phones
 
-![AI browser control](assets/ai-control.webp)
+![Android phones](assets/en-phones.webp)
 
-*Select a profile and target tab, then describe the task in natural language.*
-
-### Scheduled scenarios
-
-![Scheduled scenarios](assets/schedules.webp)
-
-*Choose profiles and schedule a scenario from the desktop workspace.*
-
-### Campaigns with fresh profiles
-
-![Campaigns with fresh profiles](assets/campaign.webp)
-
-*Configure repeated runs with a fresh temporary profile for each browser.*
+*Connect Android phones over USB or Wi-Fi, open their screens and tile the windows.*
 
 ### Pixelscan: four profiles consistent
 
