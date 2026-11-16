@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/social-card.png" alt="VuLogin" width="720">
+
 # VuLogin
 
 **Multi-Account Antidetect Browser & AI Automation**
@@ -23,6 +25,7 @@ Run multiple accounts in separate browser profiles, let AI handle browser tasks,
 
 - [What is VuLogin?](#what-is-vulogin)
 - [Key features](#key-features)
+- [Screenshots](#screenshots)
 - [Quick start](#quick-start)
 - [Usage guides](#usage-guides)
   - [1. Create a browser profile](#1-create-a-browser-profile)
@@ -61,6 +64,52 @@ It is built for people who work with several authorized accounts across **social
 | 🔌 | **Local API** | List, open and close profiles, run scenarios and inspect jobs from your own scripts (Python, Playwright, Selenium, REST/JSON). |
 | 📱 | **Android phones** | Add phones by USB or Wi-Fi and open their screens inside VuLogin for Windows. |
 | ☁️ | **Optional Cloud Backup** | Back up session data per profile when you need it. |
+
+## Screenshots
+
+Images from the official site; feature screens use demo data.
+
+### Multi-account workspace
+
+![Multi-account workspace](assets/workspace.webp)
+
+*Organize browser profiles, account groups, tags and proxy settings from one desktop workspace.*
+
+### Browser grid mode
+
+![Browser grid mode](assets/browser-grid.webp)
+
+*Six real browser windows tiled in VuLogin's grid (test data).*
+
+### Reusable automation scenarios
+
+![Reusable automation scenarios](assets/automation.webp)
+
+*The scenario editor with ordered steps and dataset assignments for multiple profiles.*
+
+### AI browser control
+
+![AI browser control](assets/ai-control.webp)
+
+*Select a profile and target tab, then describe the task in natural language.*
+
+### Scheduled scenarios
+
+![Scheduled scenarios](assets/schedules.webp)
+
+*Choose profiles and schedule a scenario from the desktop workspace.*
+
+### Campaigns with fresh profiles
+
+![Campaigns with fresh profiles](assets/campaign.webp)
+
+*Configure repeated runs with a fresh temporary profile for each browser.*
+
+### Pixelscan: four profiles consistent
+
+![Pixelscan: four profiles consistent](assets/pixelscan-four-profiles.webp)
+
+*Captured Nov 1, 2026 in VuLogin 1.1.17 over a direct connection. Results apply to this test configuration only and are not a guarantee for every website.*
 
 ## Quick start
 

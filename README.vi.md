@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/social-card.png" alt="VuLogin" width="720">
+
 # VuLogin
 
 **Trình duyệt Antidetect đa tài khoản & Tự động hóa bằng AI**
@@ -23,6 +25,7 @@ Chạy nhiều tài khoản trong các profile trình duyệt riêng biệt, đ�
 
 - [VuLogin là gì?](#vulogin-là-gì)
 - [Tính năng chính](#tính-năng-chính)
+- [Hình ảnh giao diện](#hình-ảnh-giao-diện)
 - [Bắt đầu nhanh](#bắt-đầu-nhanh)
 - [Hướng dẫn sử dụng](#hướng-dẫn-sử-dụng)
 - [Bảng giá](#bảng-giá)
@@ -55,6 +58,52 @@ Phù hợp với người quản lý nhiều tài khoản được phép sử d�
 | 🔌 | **Local API** | Liệt kê, mở, đóng profile, chạy kịch bản và xem job từ script của bạn (Python, Playwright, Selenium, REST/JSON). |
 | 📱 | **Điện thoại Android** | Thêm điện thoại qua USB hoặc Wi-Fi và mở màn hình ngay trong VuLogin cho Windows. |
 | ☁️ | **Cloud Backup tùy chọn** | Sao lưu dữ liệu phiên theo từng profile khi cần. |
+
+## Hình ảnh giao diện
+
+Hình ảnh từ website chính thức; các màn hình tính năng dùng dữ liệu demo.
+
+### Không gian làm việc đa tài khoản
+
+![Không gian làm việc đa tài khoản](assets/workspace.webp)
+
+*Quản lý profile, nhóm tài khoản, thẻ và proxy trong một giao diện.*
+
+### Chế độ lưới trình duyệt
+
+![Chế độ lưới trình duyệt](assets/browser-grid.webp)
+
+*Sáu cửa sổ trình duyệt thật được xếp lưới trong VuLogin (dữ liệu thử nghiệm).*
+
+### Kịch bản tự động hóa tái sử dụng
+
+![Kịch bản tự động hóa tái sử dụng](assets/automation.webp)
+
+*Trình chỉnh sửa kịch bản với các bước theo thứ tự và dataset gán cho nhiều profile.*
+
+### AI điều khiển trình duyệt
+
+![AI điều khiển trình duyệt](assets/ai-control.webp)
+
+*Chọn profile và tab mục tiêu, rồi mô tả tác vụ bằng ngôn ngữ tự nhiên.*
+
+### Lên lịch kịch bản
+
+![Lên lịch kịch bản](assets/schedules.webp)
+
+*Chọn profile và đặt lịch chạy kịch bản ngay trong ứng dụng.*
+
+### Chiến dịch với profile mới
+
+![Chiến dịch với profile mới](assets/campaign.webp)
+
+*Cấu hình chạy lặp lại với profile tạm mới cho mỗi trình duyệt.*
+
+### Pixelscan: bốn profile nhất quán
+
+![Pixelscan: bốn profile nhất quán](assets/pixelscan-four-profiles.webp)
+
+*Chụp ngày 01/11/2026 trên VuLogin 1.1.17, kết nối trực tiếp. Kết quả chỉ áp dụng cho cấu hình thử nghiệm này, không đảm bảo cho mọi website.*
 
 ## Bắt đầu nhanh
 
